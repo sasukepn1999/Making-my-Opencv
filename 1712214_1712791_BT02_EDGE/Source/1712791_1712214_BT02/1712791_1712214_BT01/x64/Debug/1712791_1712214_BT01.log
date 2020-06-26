@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (1712791_1712214_BT01.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CannyDetector.cpp
+  1712791_1712214_BT01.vcxproj -> D:\HCMUS\Computer Vision\1712214_1712791_BT02\Source\1712791_1712214_BT02\x64\Debug\1712791_1712214_BT02.exe

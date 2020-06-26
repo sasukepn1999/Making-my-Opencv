@@ -1,0 +1,14 @@
+﻿  SIFTDetector.cpp
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(74): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(88): warning C4244: 'argument': conversion from 'long' to 'float', possible loss of data
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(104): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(120): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(147): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\hcmus\computer vision\1712791_lab03\1712791_lab03\siftdetector.cpp(396): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  1712791_Lab03.vcxproj -> D:\HCMUS\Computer Vision\1712791_Lab03\x64\Debug\1712791_Lab03.exe
